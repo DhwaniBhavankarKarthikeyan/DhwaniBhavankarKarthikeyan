@@ -7,20 +7,8 @@
 
 ---
 
-## 🛠️ **What I Do**
-
-```html
-<span id="role"></span>
-<script>
-const roles = ["AI Engineer", "Cloud Engineer", "Data Scientist", "ML Researcher"];
-let index = 0;
-function changeRole() {
-    document.getElementById("role").innerText = roles[index];
-    index = (index + 1) % roles.length;
-}
-setInterval(changeRole, 2000);
-</script>
-```
+## 🚀 **What I Do**
+![Roles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=F70000&width=435&lines=AI+Engineer;Cloud+Engineer;Data+Scientist;ML+Researcher)
 
 🔹 **LLM Unlearning** | **Cloud Solutions** | **AI Research**  
 🔹 **Machine Learning** | **Deep Learning** | **Computer Vision**  
@@ -33,18 +21,6 @@ setInterval(changeRole, 2000);
 ✅ **SIH 2023, 2024** | **Finalist at TechFiesta (30hr Hackathon, PICT)** 🏅  
 ✅ **Microsoft Azure for Data Engineering** | **Advanced Learning Algorithms (Stanford Online)**  
 ✅ **Co-Head of AI Club, SIT Pune** | **Project Intern at SCAAI & SCNN**  
-
----
-
-## 🧑‍💻 **Projects & Research**
-📌 **LLM Unlearning** – Removing sensitive content from large models 🔍  
-📌 **911 Calls Sentinel** – AI-based sentiment analysis for emergency responses 🚨  
-📌 **RespiraRhythm** – AI-driven respiratory disease detection via audio 🎤  
-📌 **From Pixels to Peace** – Surveillance-based violence detection 📹  
-📌 **Fraudulent Transaction Detection** – ML model for financial security 💳  
-📌 **Theta Binaural Beats Analysis** – AI-driven mental health study 🧠
-
-➡️ *More projects on my [GitHub](https://github.com/DhwaniBhavankarKarthikeyan) 🚀*
 
 ---
 
