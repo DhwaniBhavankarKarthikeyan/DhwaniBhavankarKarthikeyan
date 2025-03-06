@@ -8,7 +8,8 @@
 ---
 
 ## 🚀 **What I Do**
-![Roles](https://readme-typingsvg.herokuapp.comfont=Fira+Code&weight=500&size=20&duration=1000&pause=500&color=F70000&width=435&lines=AI+Engineer;Cloud+Engineer;Data+Scientist;ML+Researcher)
+![Roles](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=70000&color=F70000&width=435&lines=AI+Engineer;Cloud+Engineer;Data+Scientist;ML+Researcher)
+
 🔹 **LLM Unlearning** | **Cloud Solutions** | **AI Research**  
 🔹 **Machine Learning** | **Deep Learning** | **Computer Vision**  
 🔹 **Power BI** | **Big Data Analytics** | **NLP**
